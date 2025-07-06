@@ -37,7 +37,7 @@ Navigate your turtle from the bottom of the screen to the top while dodging rand
 3. Run the game:
    ```bash
    python main.py
-   
+   ```
 
 ## 🎯 How to Play
 
@@ -116,4 +116,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 **Enjoy the game and happy coding!** 🎮✨
-```
+
